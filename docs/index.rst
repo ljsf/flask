@@ -10,11 +10,11 @@ Welcome to Flask
     :align: center
     :target: https://palletsprojects.com/p/flask/
 
-Welcome to Flask's documentation. Get started with :ref:`installation`
+Welcome to Flask's documentation. Get started with :ref:`installation`  // ref是reference的缩写
 and then get an overview with the :ref:`quickstart`. There is also a
 more detailed :ref:`tutorial` that shows how to create a small but
 complete application with Flask. Common patterns are described in the
-:ref:`patterns` section. The rest of the docs describe each component of
+:ref:`patterns`(//patterns是模块的意思) section. The rest of the docs describe each component of
 Flask in detail, with a full reference in the :ref:`api` section.
 
 Flask depends on the `Jinja`_ template engine and the `Werkzeug`_ WSGI
