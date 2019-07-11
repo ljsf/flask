@@ -10,7 +10,7 @@ Welcome to Flask
     :align: center
     :target: https://palletsprojects.com/p/flask/
 
-Welcome to Flask's documentation. Get started with :ref:`installation`  // ref是reference的缩写
+Welcome to Flask's documentation. Get started with :ref:`installation(// ref是reference的缩写)
 and then get an overview with the :ref:`quickstart`. There is also a
 more detailed :ref:`tutorial` that shows how to create a small but
 complete application with Flask. Common patterns are described in the
